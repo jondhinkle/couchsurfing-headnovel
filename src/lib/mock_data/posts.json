@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "post": {
+        "id": "1",
+        "userId": "2",
+        "text": "Hey guys, someone keeps trying to get into my account. Anyone know what I can do to prevent this?",
+        "createdAt": "2024-05-10T03:52:25.000Z",
+        "updatedAt": null
+      },
+      "reactionCounts": {
+        "like": 0,
+        "love": 0,
+        "excited": 0,
+        "congratulations": 0,
+        "angry": 5,
+        "sad": 2
+      }
+    },
+    {
+      "post": {
+        "id": "2",
+        "userId": "2",
+        "text": "We've been trying to reach you concerning your vehicle's extended warranty. You should've received a notice in the mail about your car's extended warranty eligibility.",
+        "createdAt": "2024-05-18T04:52:25.000Z",
+        "updatedAt": null
+      },
+      "reactionCounts": {
+        "like": 0,
+        "love": 0,
+        "excited": 0,
+        "congratulations": 0,
+        "angry": 36,
+        "sad": 0
+      }
+    },
+    {
+      "post": {
+        "id": "3",
+        "userId": "3",
+        "text": "Currently working on a new design project that's pushing my creative boundaries. Can't wait to share it with you all! #GraphicDesign #Creativity",
+        "createdAt": "2024-05-20T04:52:25.000Z",
+        "updatedAt": "2024-05-20T08:52:25.000Z"
+      },
+      "reactionCounts": {
+        "like": 34,
+        "love": 10,
+        "excited": 7,
+        "congratulations": 0,
+        "angry": 0,
+        "sad": 0
+      }
+    },
+    {
+      "post": {
+        "id": "4",
+        "userId": "4",
+        "text": "Hello friends,\n\nI have some exciting news to share! After much contemplation and encouragement from family and friends, I've decided to take up a volunteer teaching position at our local community college. Starting next semester, I'll be teaching a course on general world history.\n\nIt's been a while since I was in the classroom, and I must admit, I missed the thrill of sharing knowledge and engaging with curious minds. This opportunity feels like the perfect way to give back to the community while staying connected to my passion for history.\n\nI'm looking forward to diving into ancient civilizations, exploring the medieval era, and discussing modern history with a new generation of students. It's an exciting journey ahead, and I can't wait to get started.\n\nThank you all for your support and encouragement. Here's to new adventures and lifelong learning!\n\nBest,\nThomas",
+        "createdAt": "2024-04-17T04:52:25.000Z",
+        "updatedAt": "2024-05-20T08:52:25.000Z"
+      },
+      "reactionCounts": {
+        "like": 34,
+        "love": 10,
+        "excited": 7,
+        "congratulations": 0,
+        "angry": 0,
+        "sad": 0
+      }
+    }
+  ]
+}

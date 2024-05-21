@@ -1,0 +1,52 @@
+{
+  "users": {
+    "1": {
+      "username": "jondhinkle",
+      "email": "jondhinkle@gmail.com",
+      "displayName": "Jon Hinkle",
+      "profilePhotoFilename": "jondhinkle.jpg",
+      "location": {
+        "city": "Chandler",
+        "state": "Arizona",
+        "country": "USA"
+      },
+      "bio": "I'm a Software Engineer, based out of Chandler, Arizona. I have lived here most of my life, and I love it here. I love board games, video games, coding, technology, hanging out with friends, and dancing."
+    },
+    "2": {
+      "username": "jackmcredy",
+      "email": "jackmcredy@yahoo.com",
+      "displayName": "jack_mcredy_487",
+      "profilePhotoFilename": "jackmcredy.png",
+      "location": {
+        "city": "Mesa",
+        "state": "Arizona",
+        "country": "USA"
+      },
+      "bio": "I am definitely a real person."
+    },
+    "3": {
+      "username": "lilyanderson",
+      "email": "lilyanderson@yahoo.com",
+      "displayName": "Lily Anderson",
+      "profilePhotoFilename": "lilyanderson.png",
+      "location": {
+        "city": "Portland",
+        "state": "Oregon",
+        "country": "USA"
+      },
+      "bio": "Hi, I'm Lily Anderson, a 28-year-old graphic designer living in the vibrant city of Portland, Oregon. I have a passion for creativity and love bringing ideas to life through visual art. When I'm not working on design projects, you can find me exploring the local coffee shops, hiking in the beautiful Pacific Northwest, or experimenting with new recipes in my kitchen. I'm also an avid reader and enjoy diving into a good book whenever I get the chance. I believe in the power of creativity to inspire and connect people, and I'm always looking for new ways to express myself and make a positive impact in my community."
+    },
+    "4": {
+      "username": "thomasrichardson",
+      "email": "thomasrichardson@yahoo.com",
+      "displayName": "Thomas Richardson",
+      "profilePhotoFilename": "thomasrichardson.png",
+      "location": {
+        "city": "Savannah",
+        "state": "Georgia",
+        "country": "USA"
+      },
+      "bio": "Greetings! I'm Thomas Richardson, a 65-year-old retired history professor residing in the charming city of Savannah, Georgia. After spending over three decades teaching at the university level, I've dedicated my retirement to exploring the rich history and culture of our beautiful country. My days are filled with leisurely walks through historic districts, attending local lectures and book clubs, and indulging in my love for classic literature. I also enjoy gardening, spending time with my grandchildren, and volunteering at the local museum. Life has been an incredible journey, and I'm excited to see where the next chapter takes me."
+    }
+  }
+}
